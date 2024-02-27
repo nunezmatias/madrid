@@ -10,6 +10,6 @@ Intro to NLP for the course
 In order to  play with the intro use this 
 
 [link to the Notebook](https://colab.research.google.com/drive/1pb7tQ9_NsMaOGM6Fm41fPkiPStsruV4u?usp=sharing)
-https://colab.research.google.com/drive/1pb7tQ9_NsMaOGM6Fm41fPkiPStsruV4u?usp=sharing
+
 Or download the NLP_Madrid.ipynb file and upload it to https://colab.research.google.com/
 You might have to open an account first in google colab. 
