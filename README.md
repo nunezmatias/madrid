@@ -11,4 +11,5 @@ In order to  play with the intro use this
 
 [link to the Notebook](https://colab.research.google.com/drive/1pb7tQ9_NsMaOGM6Fm41fPkiPStsruV4u?usp=sharing)
 
-or click in  NLP_Madrid.ipynb above
+or
+[click](https://github.com/nunezmatias/madrid/blob/main/NLP_Madrid.ipynb)   here
