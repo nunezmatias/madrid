@@ -7,9 +7,7 @@ Intro to NLP for the course
 
 ![image](https://github.com/nunezmatias/madrid/assets/88870315/3e312792-ccb5-4df8-a812-86615ef87d74)
 
-In order to  play with the intro use this 
+In order to  play with the intro 
 
-[link to the Notebook](https://colab.research.google.com/drive/1pb7tQ9_NsMaOGM6Fm41fPkiPStsruV4u?usp=sharing)
 
-or
 [click](https://github.com/nunezmatias/madrid/blob/main/NLP_Madrid.ipynb)   here
